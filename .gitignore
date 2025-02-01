@@ -24,3 +24,4 @@ env/
 
 # Ignore package-related files
 *.egg-info/
+simplerag.ipynb
